@@ -1,0 +1,10 @@
+D:\projektyse\szkola\123\tak\tak\bin\Debug\tak.exe.config
+D:\projektyse\szkola\123\tak\tak\bin\Debug\tak.exe
+D:\projektyse\szkola\123\tak\tak\bin\Debug\tak.pdb
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.csprojResolveAssemblyReference.cache
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.Form1.resources
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.Properties.Resources.resources
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.csproj.GenerateResource.Cache
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.csproj.CoreCompileInputs.cache
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.exe
+D:\projektyse\szkola\123\tak\tak\obj\Debug\tak.pdb
